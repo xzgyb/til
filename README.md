@@ -16,6 +16,7 @@
 ---
 
 ### Android
+- [设置Gradle源的全局镜像](android/gradle-global-mirror.md)
 
 ### Rails
 
