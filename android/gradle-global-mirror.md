@@ -1,6 +1,8 @@
 # 设置Gradle源的全局镜像
 
 运行个Android studio项目, 下载grale依赖库太慢了, 从网上找了个设置gradle源的全局镜像的方法
+
+
 (Gradle全局镜像配置)[https://blog.csdn.net/ssairai/article/details/132556785]
 
 1. 在Gradel的home位置($HOME/.gradle)新建`init.gradle.kts`
