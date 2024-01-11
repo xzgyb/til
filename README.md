@@ -19,6 +19,9 @@
 - [设置Gradle源的全局镜像](android/gradle-global-mirror.md)
 
 ### Rails
+- [RubyMine TailwindCSS插件](rails/rubymine-tailwindcss-plugin.md)
+- [关于`inverse_of`选项的用法](rails/association-inverseof-option.md)
+- [关于使用`through`选项的记录保存](rails/association-through-option.md)
 
 ### Kotlin
 
