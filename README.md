@@ -12,6 +12,7 @@
 * [Android](#android)
 * [Rails](#rails)
 * [Kotlin](#kotlin)
+* [Ruby](#ruby)
 
 ---
 
@@ -26,4 +27,7 @@
 
 ### Kotlin
 
+### Ruby
+
+- [关于在Net::HTTP#connect中，发生connect_nonblock':certificate verify failed的错误](ruby/ssl-certificate-verify-failed.md)
 
