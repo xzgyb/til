@@ -11,5 +11,5 @@
   然而因为 htop 只专注于传统 “top” 命令范畴相关的功能，所以网络和存储相关，我们想偷懒，就还得安装下面几个工具  
   `sudo apt install -y iftop iotop bmon dstat`
 
-* 更简单的 Docker 安装
+* __更简单的 Docker 安装__  
   参见[在笔记本上搭建高性价比的 Linux 学习环境：基础篇](https://soulteary.com/2022/06/21/building-a-cost-effective-linux-learning-environment-on-a-laptop-the-basics.html)
