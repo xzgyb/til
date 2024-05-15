@@ -13,7 +13,7 @@
 * [Rails](#rails)
 * [Kotlin](#kotlin)
 * [Ruby](#ruby)
-
+* [Linux](#linux)
 ---
 
 ### Android
@@ -31,3 +31,5 @@
 
 - [关于在Net::HTTP#connect中，发生connect_nonblock':certificate verify failed的错误](ruby/ssl-certificate-verify-failed.md)
 
+### Linux
+- [linux一些常用工具](linux/frequently-used-tools.md)
