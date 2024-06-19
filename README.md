@@ -33,3 +33,6 @@
 
 ### Linux
 - [linux一些常用工具](linux/frequently-used-tools.md)
+
+### Github
+- [如何把github公有仓库的fork变为自己的私有仓库](github/howto-make-public-fork-repository-privated.md)
