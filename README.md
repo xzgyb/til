@@ -33,6 +33,7 @@
 
 ### Linux
 - [linux一些常用工具](linux/frequently-used-tools.md)
+- [解决linux编译一些应用时出现的头文件缺失的问题](linux/resolve-missing-header-file.md)
 
 ### Github
 - [如何把github公有仓库的fork变为自己的私有仓库](github/howto-make-public-fork-repository-privated.md)
