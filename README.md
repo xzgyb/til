@@ -14,6 +14,7 @@
 * [Kotlin](#kotlin)
 * [Ruby](#ruby)
 * [Linux](#linux)
+* [源码学习](#source_code_study)
 ---
 
 ### Android
@@ -37,3 +38,6 @@
 
 ### Github
 - [如何把github公有仓库的fork变为自己的私有仓库](github/howto-make-public-fork-repository-privated.md)
+
+### 源码学习
+- [通过git difftool学习github上的开源库](source-code-study/study-github-repo-by-gitdifftool.md)
