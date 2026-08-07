@@ -15,6 +15,7 @@
 * [Ruby](#ruby)
 * [Linux](#linux)
 * [源码学习](#源码学习)
+* [RubyMine](#rubymine)
 ---
 
 ### Android
@@ -41,3 +42,6 @@
 
 ### 源码学习
 - [通过git difftool学习github上的开源库](source-code-study/study-github-repo-by-gitdifftool.md)
+
+### RubyMine
+- [RubyMine的使用学习](rubymine/study.md)
